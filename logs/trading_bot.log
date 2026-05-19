@@ -1,0 +1,4 @@
+2026-05-19 21:48:49,510 | INFO | Placing order | Symbol=BTCUSDT | Side=BUY | Type=MARKET | Qty=0.001 | Price=None
+2026-05-19 21:48:49,511 | INFO | Mock API Response: {'orderId': 996334, 'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'status': 'FILLED', 'executedQty': 0.001, 'avgPrice': '104500', 'time': '2026-05-19 21:48:49.511354'}
+2026-05-19 21:49:06,856 | INFO | Placing order | Symbol=BTCUSDT | Side=SELL | Type=LIMIT | Qty=0.001 | Price=95000.0
+2026-05-19 21:49:06,856 | INFO | Mock API Response: {'orderId': 205895, 'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'status': 'NEW', 'executedQty': 0.001, 'avgPrice': 95000.0, 'time': '2026-05-19 21:49:06.856064'}
